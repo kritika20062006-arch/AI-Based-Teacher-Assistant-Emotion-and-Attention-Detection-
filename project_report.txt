@@ -1,0 +1,1 @@
+Advanced version with analytics, CNN model integration, dashboard, attention monitoring.
